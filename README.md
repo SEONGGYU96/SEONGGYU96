@@ -20,7 +20,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logoColor=white&logo=git)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logoColor=white&logo=slack)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logoColor=white&logo=notion)  
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logoColor=white&logo=Firebase)![Jetbrains](https://img.shields.io/badge/JetBrains-000000?style=for-the-badge&logoColor=white&logo=JetBrains)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logoColor=white&logo=Firebase)
 
 <!-- Badges are made with shields.io -->
 
