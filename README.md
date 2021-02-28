@@ -1,7 +1,7 @@
 ## KIM SEONGGYU 🇰🇷
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSEONGGYU96&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-- 🌱 Currently learning `Android`, `SpringFramework`
+- 🌱 Currently learning `Android`, `Spring`
 - 🤔 Also interested in `Pruduct/Project Managing`
 - 🎓 Majored in Computer Engineering and Science at [SeoulTech](https://seoultech.ac.kr)
 
@@ -11,7 +11,6 @@
 ![JAVA](https://img.shields.io/badge/Java-007396?style=for-the-badge&logoColor=white&logo=Java)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logoColor=white&logo=Kotlin)
 ![Swift](https://img.shields.io/badge/Swift-FD6E32?style=for-the-badge&logoColor=white&logo=Swift)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logoColor=white&logo=c)
 ![Javascript](https://img.shields.io/badge/Javascript-EFD81A?style=for-the-badge&logoColor=white&logo=Javascript)   
 ![AndroidStudio](https://img.shields.io/badge/AndroidStudio-3DDC84?style=for-the-badge&logoColor=white&logo=Android-Studio)
 ![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logoColor=white&logo=xcode)
