@@ -10,12 +10,8 @@
 ### Work with
 ![JAVA](https://img.shields.io/badge/Java-007396?style=for-the-badge&logoColor=white&logo=Java)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logoColor=white&logo=Kotlin)
-![Swift](https://img.shields.io/badge/Swift-FD6E32?style=for-the-badge&logoColor=white&logo=Swift)
-![Javascript](https://img.shields.io/badge/Javascript-EFD81A?style=for-the-badge&logoColor=white&logo=Javascript)   
 ![AndroidStudio](https://img.shields.io/badge/AndroidStudio-3DDC84?style=for-the-badge&logoColor=white&logo=Android-Studio)
-![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logoColor=white&logo=xcode)
-![VSCode](https://img.shields.io/badge/vscode-007ACC?style=for-the-badge&logoColor=white&logo=visual-studio-code)
-![UnrealEngin](https://img.shields.io/badge/UrealEngine-313131?style=for-the-badge&logoColor=white&logo=Unreal-Engine)  
+![VSCode](https://img.shields.io/badge/vscode-007ACC?style=for-the-badge&logoColor=white&logo=visual-studio-code) 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logoColor=white&logo=git)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logoColor=white&logo=slack)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logoColor=white&logo=notion)  
