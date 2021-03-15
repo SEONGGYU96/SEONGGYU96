@@ -9,9 +9,9 @@
 
 ### Work with
 ![JAVA](https://img.shields.io/badge/Java-007396?style=for-the-badge&logoColor=white&logo=Java)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logoColor=white&logo=Kotlin)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logoColor=white&logo=Kotlin)  
 ![AndroidStudio](https://img.shields.io/badge/AndroidStudio-3DDC84?style=for-the-badge&logoColor=white&logo=Android-Studio)
-![VSCode](https://img.shields.io/badge/vscode-007ACC?style=for-the-badge&logoColor=white&logo=visual-studio-code) 
+![VSCode](https://img.shields.io/badge/vscode-007ACC?style=for-the-badge&logoColor=white&logo=visual-studio-code)  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logoColor=white&logo=git)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logoColor=white&logo=slack)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logoColor=white&logo=notion)  
